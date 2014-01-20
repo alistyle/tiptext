@@ -16,7 +16,9 @@
   "licenses": "MIT",
   "spm": {
     "output":   ["tiptext.css"],
-    "alias":    {},
+    "alias":    {
+        "base":    "alistyle/base/1.0.1/base.css"
+    },
     "devAlias": {},
     "engines":  {}
   },
